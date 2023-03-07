@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/qAs6MbpBEpzK1K7+NG5Xx15nFIl/LA5TgvqpaDwx1cfUt4HFF73T51qOp4r/Lj8m+Qve8kWZwgsEv2sj4D7IQ==",
+  "dgSpecHash": "55V+eGbdtoxrb7KVQ2y0fSnita4fvvgDTZ8G8ojgIOUoHYFA8Vg+tb7qn1Q8DvMFRYC3hu7MFpZt+C+SShw8Rg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\Laba1Semestr2\\Laba1Semestr2\\Laba1Semestr2.csproj",
+  "projectFilePath": "C:\\Users\\User\\GitHub\\Laba-1\\Laba1Semestr2\\Laba1Semestr2\\Laba1Semestr2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
   ],
